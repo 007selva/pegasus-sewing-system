@@ -42,3 +42,5 @@ npm install
 npm run dev
 
 This build uses local in-memory data. The next step is Supabase integration for authentication, permissions and persistent records.
+
+Vercel deployment trigger: Git repository connection verified.
